@@ -1,0 +1,7 @@
+# Ignore specific file
+.env
+
+# Ignore all files in a directory
+/venv/*
+/data/*
+/playground/*
